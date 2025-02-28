@@ -1,2 +1,2 @@
 # Bootcamp-DS
-To practice the DS boorcamp hw
+To practice the DS bootcamp hw
